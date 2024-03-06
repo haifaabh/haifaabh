@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaabh&label=Profile%20views&color=0e75b6&style=flat" alt="haifaabh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haifaabh" alt="haifaabh" /></a> </p>
+
 
 - 📫 How to reach me **lh_bouhadi@esi.dz**
 
