@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bouhadi Haifaa</h1>
-<h3 align="center">Passionate junior MERN stack developer and third-year Computer Science student at ESI Algiers, with a flair for UI/UX design. Experienced in solving complex problems through thoughtful coding and adept at collaborative teamwork. Explore my repositories for projects ranging from web development and design to innovative solutions. Continuous learner, open-source enthusiast, and dedicated to contributing positively to the tech community.</h3>
+<h3 align="center">Passionate junior MERN stack developer and fourth-year Computer Science student at ESI Algiers, with a flair for UI/UX design. Experienced in solving complex problems through thoughtful coding and adept at collaborative teamwork. Explore my repositories for projects ranging from web development and design to innovative solutions. Continuous learner, open-source enthusiast, and dedicated to contributing positively to the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaabh&label=Profile%20views&color=0e75b6&style=flat" alt="haifaabh" /> </p>
 
