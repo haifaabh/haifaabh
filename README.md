@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bouhadi Haifaa</h1>
-<h3 align="center">Passionate full stack developer, UI/UX designer and fourth-year Computer Science student at ESI Algiers. Experienced in solving complex problems through thoughtful coding and adept at collaborative teamwork. Explore my repositories for projects ranging from web development and design to innovative solutions. Continuous learner, open-source enthusiast, and dedicated to contributing positively to the tech community.</h3>
+<h3 align="center">Software Engineering graduate from ESI Algiers, with experience in full-stack development, backend engineering, and AI-driven software engineering research.
+
+I enjoy building practical software solutions, exploring emerging technologies, and solving complex engineering problems.
+
+Interests: Software Engineering | Backend Development | AI & Machine Learning | Research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaabh&label=Profile%20views&color=0e75b6&style=flat" alt="haifaabh" /> </p>
 
